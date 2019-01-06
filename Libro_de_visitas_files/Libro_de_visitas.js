@@ -1,0 +1,11 @@
+// Created by iWeb 3.0.1 local-build-20100710
+
+setTransparentGifURL('Media/transparent.gif');function applyEffects()
+{var registry=IWCreateEffectRegistry();registry.registerEffects({shadow_2:new IWShadow({blurRadius:1,offset:new IWPoint(1.4142,1.4142),color:'#000000',opacity:0.440000}),stroke_1:new IWPhotoFrame([IWCreateImage('Libro_de_visitas_files/Pushpin_01.jpg'),IWCreateImage('Libro_de_visitas_files/Pushpin_02.jpg'),IWCreateImage('Libro_de_visitas_files/Pushpin_03.jpg'),IWCreateImage('Libro_de_visitas_files/Pushpin_06.jpg'),IWCreateImage('Libro_de_visitas_files/Pushpin_09.jpg'),IWCreateImage('Libro_de_visitas_files/Pushpin_02_1.jpg'),IWCreateImage('Libro_de_visitas_files/Pushpin_03_1.jpg'),IWCreateImage('Libro_de_visitas_files/Pushpin_04.jpg')],null,1,0.500000,0.000000,0.000000,0.000000,0.000000,18.000000,18.000000,18.000000,18.000000,298.000000,472.000000,298.000000,472.000000,'Libro_de_visitas_files/bullet_pp_3.png',new IWPoint(0.500000,-10),new IWSize(45,65),0.100000),shadow_1:new IWShadow({blurRadius:1,offset:new IWPoint(1.4142,1.4142),color:'#000000',opacity:0.440000}),shadow_0:new IWShadow({blurRadius:15,offset:new IWPoint(4.2426,4.2426),color:'#000000',opacity:0.750000}),stroke_0:new IWPhotoFrame([IWCreateImage('Libro_de_visitas_files/Crayon_BK_v4%20%2801%29.png'),IWCreateImage('Libro_de_visitas_files/Crayon_BK_v4%20%2802%29.png'),IWCreateImage('Libro_de_visitas_files/Crayon_BK_v4%20%2803%29.png'),IWCreateImage('Libro_de_visitas_files/Crayon_BK_v4%20%2805%29.png'),IWCreateImage('Libro_de_visitas_files/Crayon_BK_v4%20%2808%29.png'),IWCreateImage('Libro_de_visitas_files/Crayon_BK_v4%20%2807%29.png'),IWCreateImage('Libro_de_visitas_files/Crayon_BK_v4%20%2806%29.png'),IWCreateImage('Libro_de_visitas_files/Crayon_BK_v4%20%2804%29.png')],null,0,0.250000,19.000000,19.000000,19.000000,19.000000,41.000000,41.000000,41.000000,41.000000,2.000000,1.000000,2.000000,1.000000,null,null,null,0.100000)});registry.applyEffects();}
+function hostedOnDM()
+{return false;}
+function onPageLoad()
+{loadMozillaCSS('Libro_de_visitas_files/Libro_de_visitasMoz.css')
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');detectBrowser();fixAllIEPNGs('Media/transparent.gif');Widget.onload();fixupAllIEPNGBGs();applyEffects()}
+function onPageUnload()
+{Widget.onunload();}

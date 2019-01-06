@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="86D3A77E-5CC2-4040-9783-32AADB64A4E1">
+  <lastEdited clientType="local-build-20100626" date="2010-06-26 21:17:20 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Campo de Tuxpan Nayarit&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Este video se aprecia el un recorrido hacia el palapar o a las tierras de Tuxpan. En estas tierras se producen frijol, ma&#xED;z, sorgo, papayos, tomate y tabaco. Por muchos conocido como el &#x201C;verano&#x201D;, otros lo conocen como el &#x201C;Campo&#x201D; o simplemente &#x201C;monte&#x201D;. Estas tierras son cosechadas por la gente trabajadora de Tuxpan. El mayor pavor que las personas campesinas tienen es el desborde del r&#xED;o. Al desbordarse el r&#xED;o, las cosechas se sumergen en las aguas del r&#xED;o, desperdiciando y echando a perder todos sus esfuerzos. Las cosechas no sirven por que estas se pudren, dependiendo de la cosechas. Pero por lo general ninguna cosecha puede sobrevivir una inundaci&#xF3;n. Recientemente en Febrero, el r&#xED;o se desbordo causando la perdida de muchas cosechas.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>El Campo de Tuxpan</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;14 de Febrero del 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:53D64681-85C4-4F99-9049-FAB86D5E279B</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-08-05T17:02:55-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:6E11779C-4E62-42DA-AEBC-2E8B4E95FBAF</id>
+  <title>Portada</title>
+  <title xmlns="urn:iweb:">Portada</title>
+  <in-navbar xmlns="urn:iweb:">6E11779C-4E62-42DA-AEBC-2E8B4E95FBAF</in-navbar>
+  <link rel="alternate" href="Portada.html"/>
+  <updated>2010-08-05T17:02:55.001-07:00</updated>
+  <content>Portada</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:BB5D15E1-2CE5-4DF5-8B5D-38388C8FC8D8</id>
+  <title>Fotos</title>
+  <title xmlns="urn:iweb:">Fotos</title>
+  <in-navbar xmlns="urn:iweb:">BB5D15E1-2CE5-4DF5-8B5D-38388C8FC8D8</in-navbar>
+  <link rel="alternate" href="Fotos/Fotos.html"/>
+  <updated>2010-08-05T17:02:55.002-07:00</updated>
+  <content>Fotos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:427A1FFE-F8DF-4474-8267-3E59BAAFD1D1</id>
+  <title>Vídeos</title>
+  <title xmlns="urn:iweb:">Vídeos</title>
+  <in-navbar xmlns="urn:iweb:">427A1FFE-F8DF-4474-8267-3E59BAAFD1D1</in-navbar>
+  <link rel="alternate" href="Videos/Videos.html"/>
+  <updated>2005-09-20T18:08:38-07:00</updated>
+  <content>Vídeos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:09C7FD6B-EE70-4985-BCD4-37CF281C65D3</id>
+  <title>Libro de visitas</title>
+  <title xmlns="urn:iweb:">Libro de visitas</title>
+  <in-navbar xmlns="urn:iweb:">09C7FD6B-EE70-4985-BCD4-37CF281C65D3</in-navbar>
+  <link rel="alternate" href="Libro_de_visitas.html"/>
+  <updated>2010-08-05T17:02:55.003-07:00</updated>
+  <content>Libro de visitas</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:85EA32B3-F73F-4936-A95D-F1AB647931BC</id>
+  <title>Locacion</title>
+  <title xmlns="urn:iweb:">Locacion</title>
+  <in-navbar xmlns="urn:iweb:">85EA32B3-F73F-4936-A95D-F1AB647931BC</in-navbar>
+  <link rel="alternate" href="Locacion.html"/>
+  <updated>2010-08-05T17:02:55.004-07:00</updated>
+  <content>Locacion</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F852CA1F-3D40-4484-9502-5AA2A2444D2C</id>
+  <title>Chat</title>
+  <title xmlns="urn:iweb:">Chat</title>
+  <in-navbar xmlns="urn:iweb:">F852CA1F-3D40-4484-9502-5AA2A2444D2C</in-navbar>
+  <link rel="alternate" href="Chat.html"/>
+  <updated>2010-08-05T17:02:55.005-07:00</updated>
+  <content>Chat</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3F64467D-7D9D-40E7-B48A-7574BAA6EB8F</id>
+  <title>Mapa</title>
+  <title xmlns="urn:iweb:">Mapa</title>
+  <in-navbar xmlns="urn:iweb:">3F64467D-7D9D-40E7-B48A-7574BAA6EB8F</in-navbar>
+  <link rel="alternate" href="Mapa.html"/>
+  <updated>2010-08-05T17:02:55.006-07:00</updated>
+  <content>Mapa</content>
+ </entry>
+</feed>

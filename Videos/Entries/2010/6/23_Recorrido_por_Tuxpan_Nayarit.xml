@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="86D3A77E-5CC2-4040-9783-32AADB64A4E1">
+  <lastEdited clientType="local-build-20100623" date="2010-06-23 20:39:23 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Recorrido por Tuxpan Nayarit&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Un recorrido por la ciudad/pueblo de Tuxpan Nayarit. En el video recorreremos desde la calle Santos Degollado  hasta la calle Morelos. En el video podr&#xE1;n apreciar al pueblo/ciudad de Tuxpan. Las calles por la cuales muchos de nosotros transitamos o alg&#xFA;n d&#xED;a las transitamos en un largo recorrido. Calles llenas de recuerdos. En el video podr&#xE1;n reconocer negocios, calles, y con suerte y un buen ojo hasta alg&#xFA;n conocido o pariente.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Recorrido por Tuxpan Nayarit</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;20 de Febrero del 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
